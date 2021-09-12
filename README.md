@@ -1,3 +1,3 @@
 # Ignite 
-## ~ Website developed for GAMERS.
+## ~ Website developed for `GAMERS`.
 ### Technology Used
